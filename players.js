@@ -1,30 +1,30 @@
 const players = [
     {
-        firstName: 'INSERT',
+        firstName: 'Kirby',
         lastName: 'INSERT',
         position: 'INSERT',
         age: 31,
         photo: 'https://picsum.photos/200/300'
     }, {
-        firstName: 'INSERT',
+        firstName: 'King Dedede',
         lastName: 'INSERT',
         position: 'INSERT',
         age: 31,
         photo: 'https://picsum.photos/200/300'
     }, {
-        firstName: 'INSERT',
+        firstName: 'Meta Knight',
         lastName: 'INSERT',
         position: 'INSERT',
         age: 31,
         photo: 'https://picsum.photos/200/300'
     }, {
-        firstName: 'INSERT',
+        firstName: 'Bandana Waddle Dee',
         lastName: 'INSERT',
         position: 'INSERT',
         age: 31,
         photo: 'https://picsum.photos/200/300'
     }, {
-        firstName: 'INSERT',
+        firstName: 'Waddle Dee',
         lastName: 'INSERT',
         position: 'INSERT',
         age: 31,
