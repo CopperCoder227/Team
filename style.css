@@ -1,3 +1,286 @@
-.badge.pos {
-    background-color: red
+html {
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    text-align: center;
+}
+
+
+#parallax1 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+
+}
+
+#parallax2 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax3 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax4 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax5 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax6 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+
+}
+
+#parallax7 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax8 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax9 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax10 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax11 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+
+}
+
+#parallax12 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax13 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax14 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax15 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+}
+
+#parallax16 {
+    /* The image used */
+    background-image: url(_____);
+
+    /* Set a specific height */
+    min-height: 250px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-left: -10px;
+    padding-right: -10px;
+
 }
