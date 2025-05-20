@@ -1,8 +1,12 @@
 const players = [
     {
+        //NAME
         firstName: 'Kirby',
+        //
         lastName: 'INSERT',
-        position: 'INSERT',
+        //
+        position: 'lost',
+        //
         age: 31,
         photo: 'https://picsum.photos/200/300'
     }, {
