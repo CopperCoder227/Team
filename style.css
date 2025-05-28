@@ -284,3 +284,8 @@ body {
     padding-right: -10px;
 
 }
+
+img[data-bs-toggle="modal"] {
+    height: 100px;
+    width: 100px;
+}
