@@ -4,7 +4,7 @@ html {
 }
 
 
-body {
+.body1 {
     background: url(imgs/home.avif);
     background-size: cover;
     background-repeat: no-repeat;
