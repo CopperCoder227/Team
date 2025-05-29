@@ -25,17 +25,17 @@ document.addEventListener("DOMContentLoaded", () => {
                     </h5>
                     <br>
                    
-                     <img src="${p.pic}" data-bs-toggle="modal" data-bs-target="#Modal-${p.firstName}" style="cursor:pointer;">
+                     <img src="${p.pic}" data-bs-toggle="modal" data-bs-target="#Modal-${p.alt}" style="cursor:pointer;">
       
-      <div class="modal fade" id="Modal-${p.firstName}" tabindex="-1" aria-labelledby="modalLabel-${p.firstName}" aria-hidden="true">
+      <div class="modal fade" id="Modal-${p.alt}" tabindex="-1" aria-labelledby="modalLabel-${p.alt}" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="modalLabel-${p.firstName}">${p.firstName} </h5>
+              <h5 class="modal-title" id="modalLabel-${p.alt}">${p.firstName} </h5>
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body text-center">
-              <img src="${p.photoALT}" alt="${p.firstName}" class="img-fluid mb-3" />
+              <img src="${p.photoALT}" alt="${p.firstName}.ALT" class="img-fluid mb-3" />
               <br>
               <p>
               <b>${p.fact}</b>
