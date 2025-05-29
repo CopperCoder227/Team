@@ -15,7 +15,7 @@ const players = [
         //add new image for modal
         photoALT: '',
         //add the fact
-        fact: '',
+        fact: 'By sucking in emmies, he can copy almost any ability!',
     }, {
         firstName: 'King Dedede',
         lastName: 'Planet Popstar',
