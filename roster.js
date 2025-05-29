@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     list.forEach(p => {
       const col = document.createElement('div')
-      col.className = 'col-6 col-lg-2'
+      col.className = '"col-6 col-md-3 col-xl-2 d-flex justify-content-center align-items-center";'
       col.innerHTML = `
             <div class="card h-100 shadow-sm">
                 <img src="${p.photo}" class="img-top load" alt="${p.firstName} ${p.lastName}">
