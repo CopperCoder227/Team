@@ -5,7 +5,14 @@ html {
 
 
 body {
+    background: url(imgs/home.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px #ffffff;
 }
 
 
