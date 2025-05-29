@@ -2,6 +2,8 @@ const players = [
     {
         //NAME
         firstName: 'Kirby',
+        //NAME
+        alt: 'Kirby',
         //from
         lastName: 'Planet Popstar',
         //wepon
@@ -18,150 +20,213 @@ const players = [
         fact: 'By sucking in emmies, he can copy almost any ability!',
     }, {
         firstName: 'King Dedede',
+        alt: 'King',
         lastName: 'Planet Popstar',
         position: 'Hammer',
         age: 49,
         photo: 'imgs/char/dedede.png',
-        pic: 'imgs/char/icons/KSA_King_Dedede_icon.png'
+        pic: 'imgs/char/icons/KSA_King_Dedede_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Meta Knight',
+        alt: 'Meta',
         lastName: 'Planet Popstar',
         position: 'Sword',
         age: 12,
         photo: 'imgs/char/MK.webp',
-        pic: 'imgs/char/icons/KSA_Meta_Knight_icon.png'
+        pic: 'imgs/char/icons/KSA_Meta_Knight_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Bandana Waddle Dee',
+        alt: 'Bandana',
         lastName: 'Planet Popstar',
         position: 'Spear',
         age: 10,
         photo: 'imgs/char/bandana.png',
-        pic: 'imgs/char/icons/KSA_Bandana_Waddle_Dee_icon.png'
+        pic: 'imgs/char/icons/KSA_Bandana_Waddle_Dee_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Gooey',
+        alt: 'Gooey',
         lastName: 'Planet Popstar',
         position: 'Tongue',
         age: 5,
         photo: 'imgs/char/gooey.webp',
-        pic: 'imgs/char/icons/KSA_Gooey_icon.png'
+        pic: 'imgs/char/icons/KSA_Gooey_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Marx',
+        alt: 'Marx',
         lastName: 'Planet Popstar',
         position: 'Balls',
         age: 5,
         photo: 'imgs/char/marax.png',
-        pic: 'imgs/char/icons/KSA_Marx_icon.png'
+        pic: 'imgs/char/icons/KSA_Marx_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Dark Meta Knight',
+        alt: 'Dark',
         lastName: 'Mirror World',
         position: 'Sword',
         age: 4,
         photo: 'imgs/char/dark.png',
-        pic: 'imgs/char/icons/KSA_Dark_Meta_Knight_icon.png'
+        pic: 'imgs/char/icons/KSA_Dark_Meta_Knight_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Adeleine',
+        alt: 'Adeleine',
         lastName: 'Planet Popstar',
         position: 'Paintbrush',
         age: 3,
         photo: 'imgs/char/adeleine.png',
-        pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png'
+        pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Ribbon',
+        alt: 'Ribbon',
         lastName: 'Planet Popstar',
         position: 'Crystal',
         age: 3,
         photo: 'imgs/char/Ribbon.webp',
-        pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png'
+        pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Taranza',
+        alt: 'Taranza',
         lastName: 'Floralia',
         position: 'Spider Magic',
         age: 2,
         photo: 'imgs/char/taranza.png',
-        pic: 'imgs/char/icons/KSA_Taranza_icon.png'
+        pic: 'imgs/char/icons/KSA_Taranza_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Susie',
+        alt: 'Susie',
         lastName: 'Haltmann Works Company',
         position: 'Robotics',
         age: 2,
         photo: 'imgs/char/susie.png',
-        pic: 'imgs/char/icons/KSA_Susie_icon.png'
+        pic: 'imgs/char/icons/KSA_Susie_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Magolor',
+        alt: 'Magolor',
         lastName: 'Hancaldra',
         position: 'Magic',
         age: 4,
         photo: 'imgs/char/magalor.png',
-        pic: 'imgs/char/icons/KSA_Magolor_icon.png'
+        pic: 'imgs/char/icons/KSA_Magolor_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Rick',
+        alt: 'Rick',
         lastName: 'Planet Popstar',
         position: 'Himself',
         age: 4,
         photo: 'imgs/char/rick.png',
-        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png'
+        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Kine',
+        alt: 'Kine',
         lastName: 'Planet Popstar',
         position: 'Bubbles',
         age: 4,
         photo: 'imgs/char/kine.png',
-        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png'
+        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Coo',
+        alt: 'Coo',
         lastName: 'Planet Popstar',
         position: 'Wings',
         age: 4,
         photo: 'imgs/char/coo.webp',
-        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png'
+        pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Flamberge',
+        alt: 'Flamberge',
         lastName: 'Planet Popstar',
         position: 'Fire Magic',
         age: 1,
         photo: 'imgs/char/Flamberge.webp',
-        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png'
+        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Francisca',
+        alt: 'Francisca',
         lastName: 'Planet Popstar',
         position: 'Ice Magic',
         age: 1,
         photo: 'imgs/char/Francisca.png',
-        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png'
+        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Zan Partizanne',
+        alt: 'Zan',
         lastName: 'Planet Popstar',
         position: 'Thunder Magic',
         age: 1,
         photo: 'imgs/char/ZanPartizanne.webp',
-        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png'
+        pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Daroach',
+        alt: 'Daroach',
         lastName: 'Planet Popstar',
         position: 'Claws',
         age: 2,
         photo: 'imgs/char/darach.png',
-        pic: 'imgs/char/icons/KSA_Daroach_icon.png'
+        pic: 'imgs/char/icons/KSA_Daroach_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Elfilin',
+        alt: 'Elfilin',
         lastName: 'Planet Popstar',
         position: '???',
         age: 1,
         photo: 'imgs/char/KatFL_Elfilin_artwork.webp',
-        pic: 'imgs/char/icons/KSA_Normal_icon.png'
+        pic: 'imgs/char/icons/KSA_Normal_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Elline',
+        alt: 'Elline',
         lastName: 'Planet Popstar',
         position: 'Art',
         age: 2,
         photo: 'imgs/char/KatRC_Elline_artwork2.webp',
-        pic: 'imgs/char/icons/KSA_Normal_icon.png'
+        pic: 'imgs/char/icons/KSA_Normal_icon.png',
+        photoALT: '',
+        fact: '',
     }, {
         firstName: 'Prince Fluffbig',
+        alt: 'Prince',
         lastName: 'Planet Popstar',
         position: '???',
         age: 1,
         photo: 'imgs/char/Prince_Fluffbig.webp',
-        pic: 'imgs/char/icons/KSA_Normal_icon.png'
+        pic: 'imgs/char/icons/KSA_Normal_icon.png',
+        photoALT: '',
+        fact: '',
     },
 ]
