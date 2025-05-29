@@ -27,7 +27,7 @@ const players = [
         photo: 'imgs/char/dedede.png',
         pic: 'imgs/char/icons/KSA_King_Dedede_icon.png',
         photoALT: '',
-        fact: '',
+        fact: 'He has his own drumming spin off game!',
     }, {
         firstName: 'Meta Knight',
         alt: 'Meta',
