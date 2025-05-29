@@ -24,20 +24,28 @@ document.addEventListener("DOMContentLoaded", () => {
                         Appeared in: <b>${p.age} </b> games
                     </h5>
                     <br>
-                    <img src="${p.pic}"  data-bs-toggle="modal" data-bs-target="#Modal-${p.firstName}">
-                    
-                    <div class="modal fade" id="Modal-${p.firstName}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered"">
-                      <div class="modal-content">
-                        <div class="modal-body">
-                          <div class="text-center">
-                            <h1><b> Kris</b></h1>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                   
+                     <img src="${p.pic}" data-bs-toggle="modal" data-bs-target="#Modal-${p.firstName}" style="cursor:pointer;">
+      
+      <div class="modal fade" id="Modal-${p.firstName}" tabindex="-1" aria-labelledby="modalLabel-${p.firstName}" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="modalLabel-${p.firstName}">${p.firstName} </h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+              <img src="${p.photoALT}" alt="${p.firstName}" class="img-fluid mb-3" />
+              <br>
+              <p>
+              <b>${p.fact}</b>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
 
+                  </div>
             </div>
             `
 
@@ -47,6 +55,8 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   render(players)
+
+
 })
 
 

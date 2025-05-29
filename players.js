@@ -11,7 +11,11 @@ const players = [
         //charcter immage
         photo: 'imgs/char/kirby.webp',
         //charcter icon
-        pic: 'imgs/char/icons/KSA_Normal_icon.png'
+        pic: 'imgs/char/icons/KSA_Normal_icon.png',
+        //add new image for modal
+        photoALT: '',
+        //add the fact
+        fact: '',
     }, {
         firstName: 'King Dedede',
         lastName: 'Planet Popstar',
