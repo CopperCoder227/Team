@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const col = document.createElement('div')
       col.className = '"col-6 col-md-3 col-xl-2 d-flex justify-content-center align-items-center";'
       col.innerHTML = `
-            <div class="card h-100 shadow-sm">
+            <div class="card h-100 shadow-sm d-flex justify-content-center">
                 <img src="${p.photo}" class="img-top load" alt="${p.firstName} ${p.lastName}">
                 <div class="card-body text-center">
                     <h5 class="card-title mb-1"> 

@@ -92,6 +92,10 @@ html {
     object-fit: contain;
 }
 
+.word {
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+}
 
 .col-6 {
     height: 500px;

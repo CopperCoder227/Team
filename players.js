@@ -186,7 +186,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/ZanPartizanne.webp',
         pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
-        photoALT: 'imgs/char/more/zan.png,
+        photoALT: 'imgs/char/more/zan.png',
         fact: 'Zan Partizanne is a thundery boss character introduced in Kirby Star Allies, known as the Electric General of The Three Mage-Sister',
     }, {
         firstName: 'Daroach',
