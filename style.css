@@ -81,6 +81,11 @@ html {
     margin-right: 20%;
 }
 
+.roost {
+    height: 50%;
+    width: 50%;
+}
+
 .load {
     height: 40%;
     width: 100%;

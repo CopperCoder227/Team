@@ -15,7 +15,7 @@ const players = [
         //charcter icon
         pic: 'imgs/char/icons/KSA_Normal_icon.png',
         //add new image for modal
-        photoALT: '',
+        photoALT: 'imgs/char/more/kirbyOG.png',
         //add the fact
         fact: 'By sucking in emmies, he can copy almost any ability!',
     }, {
@@ -26,7 +26,7 @@ const players = [
         age: 49,
         photo: 'imgs/char/dedede.png',
         pic: 'imgs/char/icons/KSA_King_Dedede_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/king.png',
         fact: 'He has his own drumming spin off game!',
     }, {
         firstName: 'Meta Knight',
@@ -36,7 +36,7 @@ const players = [
         age: 12,
         photo: 'imgs/char/MK.webp',
         pic: 'imgs/char/icons/KSA_Meta_Knight_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/metta.png',
         fact: 'Meta Knight handles with a permanent mix of the Sword and Wing abilities',
     }, {
         firstName: 'Bandana Waddle Dee',
@@ -46,7 +46,7 @@ const players = [
         age: 10,
         photo: 'imgs/char/bandana.png',
         pic: 'imgs/char/icons/KSA_Bandana_Waddle_Dee_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/ban.png',
         fact: 'Bandana Waddle Dee debuted in Kirby Super Star as the first opponent in Megaton Punch. ',
     }, {
         firstName: 'Gooey',
@@ -56,7 +56,7 @@ const players = [
         age: 5,
         photo: 'imgs/char/gooey.webp',
         pic: 'imgs/char/icons/KSA_Gooey_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/goo.png',
         fact: 'Gooey can grab enemies with his long tongue, spit them out as a Star Bullet or swallow them to potentially gain a Copy Ability',
     }, {
         firstName: 'Marx',
@@ -66,7 +66,7 @@ const players = [
         age: 5,
         photo: 'imgs/char/marax.png',
         pic: 'imgs/char/icons/KSA_Marx_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/mar.png',
         fact: 'Marx is a character in the Kirby series, debuting as the main antagonist and final boss of the sub-game Milky Way Wishes in Kirby Super Star and its remake, Kirby Super Star Ultra, as well as the final boss of the two games in general.',
     }, {
         firstName: 'Dark Meta Knight',
@@ -76,7 +76,7 @@ const players = [
         age: 4,
         photo: 'imgs/char/dark.png',
         pic: 'imgs/char/icons/KSA_Dark_Meta_Knight_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/dark.png',
         fact: 'Dark Meta Knight is a mirror image of Meta Knight from the Mirror World.',
     }, {
         firstName: 'Adeleine',
@@ -86,7 +86,7 @@ const players = [
         age: 3,
         photo: 'imgs/char/adeleine.png',
         pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/add.png',
         fact: 'Adeleine is an artist who makes her home on Planet Popstar',
     }, {
         firstName: 'Ribbon',
@@ -96,7 +96,7 @@ const players = [
         age: 3,
         photo: 'imgs/char/Ribbon.webp',
         pic: 'imgs/char/icons/KSA_Adeleine_&_Ribbon_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/rib.png',
         fact: 'Ribbon is a small fairy from Ripple Star who made her debut in Kirby 64: The Crystal Shards',
     }, {
         firstName: 'Taranza',
@@ -106,7 +106,7 @@ const players = [
         age: 2,
         photo: 'imgs/char/taranza.png',
         pic: 'imgs/char/icons/KSA_Taranza_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/tan.png',
         fact: 'Taranza is a young, clumsy wizard with arachnid-like characteristics who serves as a prominent character in a few games in the Kirby series',
     }, {
         firstName: 'Susie',
@@ -116,7 +116,7 @@ const players = [
         age: 2,
         photo: 'imgs/char/susie.png',
         pic: 'imgs/char/icons/KSA_Susie_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/bot.png',
         fact: 'In Susie`s debut appearance, she was a villain and antagonist to Kirby, fighting him personally as a boss and later sending other creations of Haltmann Works after him, while also being the primary source of information about the company',
     }, {
         firstName: 'Magolor',
@@ -126,7 +126,7 @@ const players = [
         age: 4,
         photo: 'imgs/char/magalor.png',
         pic: 'imgs/char/icons/KSA_Magolor_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/mag.png',
         fact: 'Magolor is a cat-like alien magician who first appeared in Kirby`s Return to Dream Land as the main antagonist',
     }, {
         firstName: 'Rick',
@@ -136,7 +136,7 @@ const players = [
         age: 4,
         photo: 'imgs/char/rick.png',
         pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/ric.png',
         fact: 'Rick is a hamster-like character and an Animal Friend of Kirby',
     }, {
         firstName: 'Kine',
@@ -146,7 +146,7 @@ const players = [
         age: 4,
         photo: 'imgs/char/kine.png',
         pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/kine.png',
         fact: 'A blue fish who can swim against strong currents and allow Kirby to use his inhaling attack underwater',
     }, {
         firstName: 'Coo',
@@ -156,7 +156,7 @@ const players = [
         age: 4,
         photo: 'imgs/char/coo.webp',
         pic: 'imgs/char/icons/KSA_Rick_&_Kine_&_Coo_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/coo.png',
         fact: 'Coo is a prominent Animal Friend in the Kirby series, known for his flying ability and calm demeanor',
     }, {
         firstName: 'Flamberge',
@@ -166,7 +166,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/Flamberge.webp',
         pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/flame.webp',
         fact: 'Flamberge is a fiery boss character introduced in Kirby Star Allies, known as the Blazing General of The Three Mage-Sister',
     }, {
         firstName: 'Francisca',
@@ -176,7 +176,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/Francisca.png',
         pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/fra.png',
         fact: 'Francisca is a frozen boss character introduced in Kirby Star Allies, known as the Frozen General of The Three Mage-Sister',
     }, {
         firstName: 'Zan Partizanne',
@@ -186,7 +186,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/ZanPartizanne.webp',
         pic: 'imgs/char/icons/KSA_The_Three_Mage-Sisters_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/zan.png,
         fact: 'Zan Partizanne is a thundery boss character introduced in Kirby Star Allies, known as the Electric General of The Three Mage-Sister',
     }, {
         firstName: 'Daroach',
@@ -196,7 +196,7 @@ const players = [
         age: 2,
         photo: 'imgs/char/darach.png',
         pic: 'imgs/char/icons/KSA_Daroach_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/dar.png',
         fact: 'Daroach is a character from the Kirby: Squeak Squad game, where he is the leader of the Squeaks.',
     }, {
         firstName: 'Elfilin',
@@ -206,7 +206,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/KatFL_Elfilin_artwork.webp',
         pic: 'imgs/char/icons/KSA_Normal_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/eff.png',
         fact: 'Kirby`s primary companion. He is a flying chinchilla-like creature who is the compassionate half of Fecto Forgo, one of Forgotten Land`s antagonists',
     }, {
         firstName: 'Elline',
@@ -216,7 +216,7 @@ const players = [
         age: 2,
         photo: 'imgs/char/KatRC_Elline_artwork2.webp',
         pic: 'imgs/char/icons/KSA_Normal_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/ell.png',
         fact: 'Elline is responsible for painting the Rainbow Rope which Kirby uses to get about in Seventopia',
     }, {
         firstName: 'Prince Fluff',
@@ -226,7 +226,7 @@ const players = [
         age: 1,
         photo: 'imgs/char/Prince_Fluffbig.webp',
         pic: 'imgs/char/icons/KSA_Normal_icon.png',
-        photoALT: '',
+        photoALT: 'imgs/char/more/pir.png',
         fact: 'Prince Fluff is a character in the Kirby series, appearing only in Kirby`s Epic Yarn and its remake, Kirby`s Extra Epic Yarn. He is the ruler of Patch Land.',
     },
 ]

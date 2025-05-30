@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body text-center">
-              <img src="${p.photoALT}" alt="${p.firstName}.ALT" class="img-fluid mb-3" />
+              <img src="${p.photoALT}" alt="${p.firstName}.ALT" class="img-fluid mb-3 roost" />
               <br>
               <p>
               <b>${p.fact}</b>
